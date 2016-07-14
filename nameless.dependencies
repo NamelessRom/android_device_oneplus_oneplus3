@@ -1,11 +1,13 @@
 [
  {
-   "repository": "android_device_oppo_common",
-   "target_path": "device/oppo/common"
+   "repository": "NamelessRom/android_device_oppo_common",
+   "target_path": "device/oppo/common",
+   "revision": "n-3.0"
  },
  {
-   "repository": "android_kernel_oneplus_msm8996",
-   "target_path": "kernel/oneplus/msm8996"
+   "repository": "NamelessRom/android_kernel_oneplus_msm8996",
+   "target_path": "kernel/oneplus/msm8996",
+   "revision": "n-3.0"
  },
  {
    "repository": "android_vendor_nxp-nfc_opensource_frameworks",
