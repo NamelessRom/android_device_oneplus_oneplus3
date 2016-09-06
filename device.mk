@@ -161,10 +161,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libjni_livedisplay
 
-# Doze mode
-PRODUCT_PACKAGES += \
-    OneplusDoze
-
 # Fingerprint sensor
 PRODUCT_PACKAGES += \
     fingerprintd
